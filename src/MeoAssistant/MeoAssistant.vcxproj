@@ -86,6 +86,7 @@
     <ClInclude Include="Task\Plugin\RoguelikeResetTaskPlugin.h" />
     <ClInclude Include="Task\Plugin\RoguelikeShoppingTaskPlugin.h" />
     <ClInclude Include="Task\Plugin\RoguelikeSkillSelectionTaskPlugin.h" />
+    <ClInclude Include="Task\Plugin\RoguelikeStageEncounterTaskPlugin.h" />
     <ClInclude Include="Task\Plugin\StageDropsTaskPlugin.h" />
     <ClInclude Include="Task\Plugin\StartGameTaskPlugin.h" />
     <ClInclude Include="Task\Plugin\StopGameTaskPlugin.h" />
@@ -202,6 +203,7 @@
     <ClCompile Include="Task\Plugin\RoguelikeResetTaskPlugin.cpp" />
     <ClCompile Include="Task\Plugin\RoguelikeShoppingTaskPlugin.cpp" />
     <ClCompile Include="Task\Plugin\RoguelikeSkillSelectionTaskPlugin.cpp" />
+    <ClCompile Include="Task\Plugin\RoguelikeStageEncounterTaskPlugin.cpp" />
     <ClCompile Include="Task\Plugin\StageDropsTaskPlugin.cpp" />
     <ClCompile Include="Task\Plugin\StartGameTaskPlugin.cpp" />
     <ClCompile Include="Task\Plugin\StopGameTaskPlugin.cpp" />
